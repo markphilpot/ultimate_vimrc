@@ -1,0 +1,8 @@
+Ultimate vimrc
+
+This is my fork of amix's vimrc (http://amix.dk/blog/post/19486#The-ultimate-vim-configuration-vimrc)
+
+== Installation ==
+
+git clone [git_string] .vim_runtime
+sh .vim_runtime/install.sh [platform]
